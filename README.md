@@ -1,1 +1,1 @@
-# static-square
+# Box Class
